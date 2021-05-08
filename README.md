@@ -48,7 +48,7 @@ the system described in this work; to work properly, they require a large number
 microphone array using a device that is not specialized for this task.
 For the above reasons, the GCC algorithm was chosen.
 
-To explain _Generalized Cross-Correlation (GCC), we must first create a mathematical model of the signals received by the microphones:
+To explain _Generalized Cross-Correlation (GCC)_, we must first create a mathematical model of the signals received by the microphones:
 
 ![](https://latex.codecogs.com/gif.latex?\dpi{120}&space;\bg_white&space;\begin{equation}&space;\color{black}&space;\begin{aligned}&space;&r_{1}(t)=s(t)&plus;n_{1}(t),&space;\\&space;&r_{2}(t)=s(t-D)&plus;n_{2}(t),&space;\end{aligned}&space;\qquad&space;0\leq&space;t\leq&space;T&space;\end{equation})
 
